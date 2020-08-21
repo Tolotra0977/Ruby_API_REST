@@ -7,8 +7,11 @@ Ce programme consiste a récupérer une liste de monstre du jeu Dofus selon leur
 Avant de Démarrer le programme, il faut installer les gems suivant:
 
 gem 'rubocop'
+
 gem 'pry'
+
 gem 'httparty'
+
 gem 'json'
 
 ## Lancement
